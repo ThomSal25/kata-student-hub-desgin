@@ -222,6 +222,8 @@ main {
 
     width: 31px;
     height: 36px;
+
+    pointer-events: none;
 }
 
 .drop-line{
@@ -236,5 +238,5 @@ main {
 }
 
 .month-class:focus > .icon-wrapper {
-    
+
 }
